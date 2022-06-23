@@ -1,0 +1,867 @@
+2022-06-11 21:44:50,485  INFO [main] Base:25 - reading a property file for browser
+2022-06-13 13:48:25,448  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-13 13:48:25,453  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-13 13:48:30,315  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-13 13:48:30,367  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-13 13:48:35,825  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-13 14:03:10,948  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-13 14:03:10,952  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-13 14:03:13,367  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-13 14:03:13,368  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-13 14:03:17,527  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-13 14:12:00,709  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-13 14:12:00,713  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-13 14:12:03,285  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-13 14:12:03,286  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-13 14:12:07,181  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-13 19:56:11,379  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-13 19:56:11,385  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-13 19:56:13,299  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-13 19:56:13,300  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-13 19:56:17,306  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-13 20:55:54,829  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-13 20:55:54,834  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-13 20:55:57,131  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-13 20:55:57,132  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-13 20:56:01,443  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-13 21:48:08,120  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-13 21:48:08,127  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-13 21:48:10,298  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-13 21:48:10,303  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-13 21:48:24,067  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-13 22:02:02,736  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-13 22:02:02,740  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-13 22:02:05,466  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-13 22:02:05,466  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-13 22:02:11,504  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 11:58:35,841  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 11:58:35,867  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 11:58:37,828  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 11:58:37,828  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 11:58:41,366  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 12:02:16,065  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 12:02:16,070  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 12:02:18,236  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 12:02:18,237  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 12:02:23,554  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 12:08:33,282  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 12:08:33,286  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 12:08:36,144  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 12:08:36,145  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 12:08:41,916  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 12:09:24,863  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 12:09:24,868  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 12:09:26,805  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 12:09:26,822  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 12:09:33,809  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 13:19:08,479  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 13:19:08,510  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 13:19:12,814  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 13:19:12,815  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 13:19:17,198  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 13:23:32,125  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 13:23:32,130  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 13:23:34,274  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 13:23:34,274  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 13:23:39,159  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 13:47:40,080  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 13:47:40,106  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 13:47:43,171  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 13:47:43,172  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 13:47:48,254  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 14:04:20,107  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 14:04:20,111  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 14:04:22,160  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 14:04:22,161  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 14:04:27,148  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 14:14:38,323  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 14:14:38,328  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 14:14:40,196  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 14:14:40,197  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 14:14:50,400  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 14:36:35,937  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 14:36:35,943  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 14:36:37,624  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 14:36:37,626  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 14:36:41,571  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 14:46:03,210  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 14:46:03,215  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 14:46:04,873  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 14:46:04,873  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 14:46:07,884  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 14:47:35,043  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 14:47:35,050  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 14:47:36,720  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 14:47:36,721  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 14:47:40,355  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 14:51:02,764  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 14:51:02,769  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 14:51:04,370  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 14:51:04,371  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 14:51:07,894  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 14:52:00,940  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 14:52:00,944  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 14:52:03,031  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 14:52:03,031  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 14:52:06,497  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 18:31:12,904  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 18:31:12,928  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 18:31:20,488  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 18:31:20,489  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 18:31:26,751  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 19:41:20,356  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 19:41:20,361  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 19:41:22,091  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 19:41:22,092  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 19:41:26,291  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 19:43:38,722  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 19:43:38,726  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 19:43:40,507  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 19:43:40,508  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 19:43:44,429  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-14 19:44:37,357  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-14 19:44:37,362  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-14 19:44:39,079  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-14 19:44:39,080  INFO [main] BaseClass:42 - launching JBK offline application
+2022-06-14 19:44:42,989  INFO [main] BaseClass:44 - maxmizing browser window
+2022-06-15 12:59:56,400  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-15 12:59:56,430  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-15 13:00:09,491  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-15 13:00:24,404  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-15 13:00:24,594  INFO [main] BaseClass:45 - browser window maximized
+2022-06-15 13:01:00,470  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-15 13:01:00,471  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-15 13:01:02,233  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-15 13:01:07,457  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-15 13:01:07,580  INFO [main] BaseClass:45 - browser window maximized
+2022-06-15 13:01:10,763  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-15 13:01:10,763  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-15 13:01:15,417  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-15 13:01:29,459  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-15 13:01:29,580  INFO [main] BaseClass:45 - browser window maximized
+2022-06-15 13:01:40,607  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-15 13:01:40,609  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-15 13:01:44,975  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-15 13:01:50,032  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-15 13:01:50,156  INFO [main] BaseClass:45 - browser window maximized
+2022-06-15 13:34:14,115  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-15 13:34:14,120  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-15 13:34:16,185  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-15 13:34:20,873  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-15 13:34:21,003  INFO [main] BaseClass:45 - browser window maximized
+2022-06-15 13:34:25,439  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-15 13:34:25,440  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-15 13:34:26,633  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-15 13:34:31,301  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-15 13:34:31,432  INFO [main] BaseClass:45 - browser window maximized
+2022-06-15 13:34:35,201  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-15 13:34:35,202  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-15 13:34:37,687  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-15 13:34:50,709  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-15 13:34:50,842  INFO [main] BaseClass:45 - browser window maximized
+2022-06-15 13:35:02,262  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-15 13:35:02,265  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-15 13:35:03,999  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-15 13:35:09,063  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-15 13:35:09,196  INFO [main] BaseClass:45 - browser window maximized
+2022-06-15 15:51:33,057  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-15 15:51:33,062  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-15 15:51:35,039  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-15 15:51:40,322  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-15 15:51:40,449  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 12:19:10,546  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 12:19:10,568  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 12:19:15,241  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 12:19:20,420  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 12:19:20,594  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 12:34:40,957  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 12:34:40,961  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 12:34:42,726  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 12:34:46,272  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 12:34:46,415  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 12:40:00,825  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 12:40:00,829  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 12:40:02,646  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 12:40:06,163  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 12:40:06,305  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 12:40:10,480  INFO [main] UsersPage:75 - user added
+2022-06-16 12:56:21,740  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 12:56:21,746  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 12:56:23,701  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 12:56:27,997  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 12:56:28,131  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 13:08:04,448  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 13:08:04,456  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 13:08:12,046  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 13:08:18,022  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 13:08:18,152  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 13:08:25,378  INFO [main] AddUsersPage:71 - user added
+2022-06-16 13:08:26,440  INFO [main] AddUsersPage:71 - user added
+2022-06-16 13:15:58,219  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 13:15:58,223  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 13:16:00,406  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 13:16:04,272  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 13:16:04,396  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 13:52:54,238  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 13:52:54,243  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 13:53:03,542  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 13:53:18,144  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 13:53:18,467  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 13:53:37,927  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 13:53:37,928  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 13:53:39,313  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 13:53:46,184  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 13:53:46,318  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 13:53:48,913  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 13:53:48,914  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 13:53:50,176  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 13:53:55,508  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 13:53:55,633  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 13:54:04,228  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 13:54:04,233  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 13:54:05,688  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 13:54:10,783  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 13:54:10,901  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 13:54:18,309  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 13:54:18,310  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 13:54:20,090  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 13:54:28,071  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 13:54:28,198  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 13:54:36,516  INFO [main] AddUsersPage:71 - user added
+2022-06-16 13:54:37,791  INFO [main] AddUsersPage:71 - user added
+2022-06-16 14:18:20,421  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 14:18:20,440  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 14:18:24,426  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 14:18:31,536  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 14:18:31,670  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 14:23:30,898  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 14:23:30,903  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 14:23:33,354  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 14:23:41,646  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 14:23:41,785  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 14:23:47,530  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 14:23:47,531  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 14:23:48,750  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 14:23:52,476  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 14:23:52,621  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 14:23:55,589  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 14:23:55,590  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 14:23:57,106  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 14:24:01,726  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 14:24:01,874  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 14:24:11,612  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 14:24:11,615  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 14:24:13,298  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 14:24:16,765  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 14:24:16,893  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 14:24:31,000  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-16 14:24:31,001  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-16 14:24:34,685  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-16 14:24:54,463  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-16 14:24:54,588  INFO [main] BaseClass:45 - browser window maximized
+2022-06-16 14:25:04,290  INFO [main] AddUsersPage:71 - user added
+2022-06-16 14:25:05,445  INFO [main] AddUsersPage:71 - user added
+2022-06-17 11:14:29,403  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-17 11:14:29,407  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-17 11:14:35,732  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-17 11:14:38,206  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-17 11:14:38,379  INFO [main] BaseClass:45 - browser window maximized
+2022-06-17 11:14:38,380  INFO [main] BaseClass:20 - Browser initialized
+2022-06-17 11:14:39,326  INFO [main] BaseClass:22 - initializing extent report and setting location
+2022-06-17 11:14:39,669  INFO [main] LoginPage:77 - Error masg matches
+2022-06-17 11:14:40,325  INFO [main] BaseClass:30 - browser window closed
+2022-06-17 11:14:41,682  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-17 11:14:41,682  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-17 11:14:42,900  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-17 11:14:46,410  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-17 11:14:46,540  INFO [main] BaseClass:45 - browser window maximized
+2022-06-17 11:14:46,541  INFO [main] BaseClass:20 - Browser initialized
+2022-06-17 11:14:46,543  INFO [main] BaseClass:22 - initializing extent report and setting location
+2022-06-17 11:14:50,655  INFO [main] LoginPage:43 - Title matches
+2022-06-17 11:14:50,781  INFO [main] BaseClass:30 - browser window closed
+2022-06-17 11:14:50,942  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-17 11:14:50,943  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-17 11:14:52,158  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-17 11:14:55,609  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-17 11:14:55,736  INFO [main] BaseClass:45 - browser window maximized
+2022-06-17 11:14:55,737  INFO [main] BaseClass:20 - Browser initialized
+2022-06-17 11:14:55,738  INFO [main] BaseClass:22 - initializing extent report and setting location
+2022-06-17 11:14:56,100  INFO [main] LoginPage:66 - Title does not matches
+2022-06-17 11:14:56,323  INFO [main] BaseClass:30 - browser window closed
+2022-06-17 11:14:56,463  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-17 11:14:56,464  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-17 11:14:57,960  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-17 11:15:01,497  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-17 11:15:01,631  INFO [main] BaseClass:45 - browser window maximized
+2022-06-17 11:15:07,566  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-17 11:15:07,567  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-17 11:15:08,979  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-17 11:15:14,559  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-17 11:15:14,705  INFO [main] BaseClass:45 - browser window maximized
+2022-06-17 11:15:36,138  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-17 11:15:36,138  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-17 11:15:39,243  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-17 11:15:50,665  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-17 11:15:50,824  INFO [main] BaseClass:45 - browser window maximized
+2022-06-17 11:16:01,043  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-17 11:16:01,043  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-17 11:16:02,296  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-17 11:16:08,477  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-17 11:16:08,606  INFO [main] BaseClass:45 - browser window maximized
+2022-06-17 11:16:14,418  INFO [main] AddUsersPage:71 - user added
+2022-06-17 11:16:15,763  INFO [main] AddUsersPage:71 - user added
+2022-06-22 14:47:42,492  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-22 14:47:42,515  INFO [main] ListenerEx:55 - start time >> Wed Jun 22 14:47:42 IST 2022
+2022-06-22 14:47:42,551  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 14:47:42,553  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 14:47:58,736  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 14:48:06,104  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 14:48:06,334  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 14:48:06,334  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 14:48:08,169  INFO [main] LoginPage:77 - Error masg matches
+2022-06-22 14:48:16,938  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 14:48:16,940  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 14:48:16,942  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 14:48:19,271  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 14:48:24,086  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 14:48:24,222  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 14:48:24,222  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 14:48:26,988  INFO [main] LoginPage:43 - Title matches
+2022-06-22 14:48:27,422  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 14:48:27,425  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 14:48:27,427  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 14:48:29,529  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 14:48:35,350  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 14:48:35,487  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 14:48:35,488  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 14:48:35,855  INFO [main] LoginPage:66 - Title does not matches
+2022-06-22 14:48:35,997  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 14:48:35,998  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 14:48:35,999  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 14:48:37,914  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 14:48:42,809  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 14:48:42,966  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 14:48:54,865  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 14:48:54,866  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 14:49:03,906  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 14:49:15,289  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 14:49:15,426  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 14:49:31,039  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 14:49:31,040  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 14:49:34,959  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 14:49:44,788  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 14:49:44,946  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 14:50:03,910  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 14:50:03,911  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 14:50:07,091  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 14:50:14,440  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 14:50:14,581  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 14:50:30,601  INFO [main] AddUsersPage:71 - user added
+2022-06-22 14:50:31,806  INFO [main] AddUsersPage:71 - user added
+2022-06-22 14:50:52,625  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-22 14:50:52,626  INFO [main] ListenerEx:62 - finish time >> Wed Jun 22 14:50:52 IST 2022
+2022-06-22 15:06:21,314  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-22 15:06:21,325  INFO [main] ListenerEx:55 - start time >> Wed Jun 22 15:06:21 IST 2022
+2022-06-22 15:06:21,370  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 15:06:21,381  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 15:06:29,594  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 15:06:34,045  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 15:06:34,189  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 15:06:34,190  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 15:06:34,512  INFO [main] LoginPage:77 - Error masg matches
+2022-06-22 15:06:34,927  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 15:06:34,930  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 15:06:34,931  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 15:06:36,199  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 15:06:40,546  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 15:06:40,670  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 15:06:40,670  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 15:06:43,184  INFO [main] LoginPage:43 - Title matches
+2022-06-22 15:06:43,325  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 15:06:43,327  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 15:06:43,328  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 15:06:44,584  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 15:06:47,898  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 15:06:48,039  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 15:06:48,040  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 15:06:48,396  INFO [main] LoginPage:66 - Title does not matches
+2022-06-22 15:06:48,545  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 15:06:48,547  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 15:06:48,548  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 15:06:49,620  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 15:06:53,423  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 15:06:53,552  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 15:06:56,751  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 15:06:56,752  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 15:06:59,652  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 15:07:09,029  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 15:07:09,165  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 15:07:31,212  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 15:07:31,214  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 15:07:32,673  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 15:07:37,392  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 15:07:37,532  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 15:07:45,333  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 15:07:45,334  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 15:07:48,589  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 15:07:57,353  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 15:07:57,477  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 15:08:04,840  INFO [main] AddUsersPage:71 - user added
+2022-06-22 15:08:06,119  INFO [main] AddUsersPage:71 - user added
+2022-06-22 15:08:19,328  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-22 15:08:19,329  INFO [main] ListenerEx:62 - finish time >> Wed Jun 22 15:08:19 IST 2022
+2022-06-22 17:20:06,616  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 17:20:06,621  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 17:20:17,679  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 17:20:23,812  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 17:20:23,993  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 17:20:23,994  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 17:20:25,051  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-22 17:20:25,056  INFO [main] ListenerEx:55 - start time >> Wed Jun 22 17:20:25 IST 2022
+2022-06-22 17:20:25,314  INFO [main] LoginPage:77 - Error masg matches
+2022-06-22 17:20:27,255  INFO [main] LoginPage:43 - Title matches
+2022-06-22 17:20:32,826  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-22 17:20:32,827  INFO [main] ListenerEx:62 - finish time >> Wed Jun 22 17:20:32 IST 2022
+2022-06-22 17:20:38,776  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 20:11:48,538  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 20:11:48,554  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 20:12:21,243  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 20:12:27,738  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 20:12:27,996  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 20:12:27,996  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 20:12:28,375  INFO [main] LoginPage:77 - Error masg matches
+2022-06-22 20:12:28,968  INFO [main] LoginPage:66 - Title does not matches
+2022-06-22 20:12:31,439  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 20:14:53,050  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 20:14:53,054  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 20:14:55,045  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 20:14:59,216  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 20:14:59,352  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 20:14:59,354  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 20:14:59,611  INFO [main] LoginPage:77 - Error masg matches
+2022-06-22 20:14:59,879  INFO [main] LoginPage:66 - Title does not matches
+2022-06-22 20:15:00,101  INFO [main] LoginPage:48 - Title does not match
+2022-06-22 20:15:00,525  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 20:22:48,811  INFO [main] BaseClass:25 - reading a property file for browser name
+2022-06-22 20:22:48,815  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 20:22:59,692  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 20:23:05,243  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 20:23:05,685  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 20:23:05,685  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 20:23:10,587  INFO [main] LoginPage:81 - Error msg matches
+2022-06-22 20:23:11,078  INFO [main] LoginPage:68 - Title does not matches
+2022-06-22 20:23:13,412  INFO [main] LoginPage:45 - Title matches
+2022-06-22 20:23:16,383  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 21:03:09,158  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-22 21:03:09,163  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 21:03:30,118  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 21:03:38,071  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 21:03:38,233  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 21:03:38,234  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 21:03:39,937  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-22 21:03:39,968  INFO [main] ListenerEx:55 - start time >> Wed Jun 22 21:03:39 IST 2022
+2022-06-22 21:03:40,681  INFO [main] LoginPage:81 - Error msg matches
+2022-06-22 21:03:41,287  INFO [main] LoginPage:68 - Title does not matches
+2022-06-22 21:03:46,762  INFO [main] LoginPage:45 - Title matches
+2022-06-22 21:03:49,989  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-22 21:03:49,990  INFO [main] ListenerEx:62 - finish time >> Wed Jun 22 21:03:49 IST 2022
+2022-06-22 21:03:58,696  INFO [main] BaseClass:27 - browser window closed
+2022-06-22 21:18:14,086  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-22 21:18:14,106  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-22 21:18:40,758  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-22 21:18:49,782  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-22 21:18:51,132  INFO [main] BaseClass:45 - browser window maximized
+2022-06-22 21:18:51,134  INFO [main] BaseClass:19 - Browser initialized
+2022-06-22 21:18:52,490  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-22 21:18:52,530  INFO [main] ListenerEx:55 - start time >> Wed Jun 22 21:18:52 IST 2022
+2022-06-22 21:18:54,099  INFO [main] LoginPage:81 - Error msg matches
+2022-06-22 21:18:55,740  INFO [main] LoginPage:68 - Title does not matches
+2022-06-22 21:19:00,348  INFO [main] LoginPage:45 - Title matches
+2022-06-22 21:19:01,807  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-22 21:19:01,808  INFO [main] ListenerEx:62 - finish time >> Wed Jun 22 21:19:01 IST 2022
+2022-06-22 21:19:08,368  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 12:57:00,484  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 12:57:00,518  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 12:57:10,224  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 12:57:13,177  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 12:57:13,395  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 12:57:13,396  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 12:57:14,254  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 12:57:14,258  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 12:57:14 IST 2022
+2022-06-23 12:57:14,748  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 12:57:15,160  INFO [main] LoginPage:68 - Title does not matches
+2022-06-23 12:57:16,727  INFO [main] LoginPage:45 - Title matches
+2022-06-23 12:57:16,862  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 12:57:16,863  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 12:57:16 IST 2022
+2022-06-23 12:57:20,224  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 13:37:13,779  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 13:37:13,783  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 13:37:30,029  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 13:37:33,806  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 13:37:33,949  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 13:37:33,950  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 13:37:34,812  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 13:37:34,816  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 13:37:34 IST 2022
+2022-06-23 13:37:35,809  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 13:37:37,838  INFO [main] LoginPage:68 - Title does not matches
+2022-06-23 13:37:41,155  INFO [main] LoginPage:45 - Title matches
+2022-06-23 13:37:41,343  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 13:37:41,344  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 13:37:41 IST 2022
+2022-06-23 13:37:42,603  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 13:40:08,727  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 13:40:08,732  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 13:40:10,792  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 13:40:14,128  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 13:40:14,258  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 13:40:14,258  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 13:40:14,700  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 13:40:14,704  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 13:40:14 IST 2022
+2022-06-23 13:40:14,993  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 13:40:15,273  INFO [main] LoginPage:68 - Title does not matches
+2022-06-23 13:40:15,466  INFO [main] LoginPage:96 - navigated to dashboard page
+2022-06-23 13:40:18,636  INFO [main] LoginPage:45 - Title matches
+2022-06-23 13:40:18,691  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 13:40:18,692  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 13:40:18 IST 2022
+2022-06-23 13:40:19,480  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 13:47:20,819  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 13:47:20,825  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 13:47:25,256  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 13:47:33,252  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 13:47:33,393  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 13:47:33,393  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 13:47:34,022  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 13:47:34,026  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 13:47:34 IST 2022
+2022-06-23 13:47:34,332  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 13:47:34,581  INFO [main] LoginPage:68 - Title does not matches
+2022-06-23 13:47:39,185  INFO [main] LoginPage:98 - navigated to dashboard page
+2022-06-23 13:47:40,020  INFO [main] DashboardPage:87 - clicked on Downloads link
+2022-06-23 13:47:40,028  INFO [main] DashboardPage:90 - page title matches
+2022-06-23 13:47:40,401  INFO [main] DashboardPage:55 - clicked on Operators link
+2022-06-23 13:47:40,411  INFO [main] DashboardPage:58 - page title matches
+2022-06-23 13:47:40,739  INFO [main] DashboardPage:71 - clicked on UsefullLinks link
+2022-06-23 13:47:40,748  INFO [main] DashboardPage:74 - page title matches
+2022-06-23 13:47:41,312  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 13:47:41,313  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 13:47:41 IST 2022
+2022-06-23 13:47:42,237  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 14:27:27,375  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 14:27:27,394  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 14:27:35,144  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 14:27:39,199  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 14:27:39,335  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 14:27:39,336  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 14:27:41,477  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 14:27:41,483  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 14:27:41 IST 2022
+2022-06-23 14:27:41,946  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 14:27:42,522  INFO [main] LoginPage:68 - Title does not matches
+2022-06-23 14:27:45,382  INFO [main] LoginPage:98 - navigated to dashboard page
+2022-06-23 14:27:45,898  INFO [main] DashboardPage:87 - clicked on Downloads link
+2022-06-23 14:27:45,906  INFO [main] DashboardPage:90 - page title matches
+2022-06-23 14:27:46,213  INFO [main] DashboardPage:55 - clicked on Operators link
+2022-06-23 14:27:46,220  INFO [main] DashboardPage:58 - page title matches
+2022-06-23 14:27:46,507  INFO [main] DashboardPage:71 - clicked on UsefullLinks link
+2022-06-23 14:27:46,517  INFO [main] DashboardPage:74 - page title matches
+2022-06-23 14:27:49,224  INFO [main] DashboardPage:39 - clicked on Users link
+2022-06-23 14:27:49,236  INFO [main] DashboardPage:42 - page title matches
+2022-06-23 14:27:52,819  INFO [main] DashboardPage:103 - clicked on Logout link
+2022-06-23 14:27:52,828  INFO [main] DashboardPage:106 - page title matches
+2022-06-23 14:27:53,918  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 14:27:53,919  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 14:27:53 IST 2022
+2022-06-23 14:28:08,662  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 14:30:56,044  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 14:30:56,048  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 14:30:58,100  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 14:31:02,170  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 14:31:02,309  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 14:31:02,310  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 14:31:02,799  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 14:31:02,804  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 14:31:02 IST 2022
+2022-06-23 14:31:03,104  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 14:31:03,353  INFO [main] LoginPage:68 - Title does not matches
+2022-06-23 14:31:06,353  INFO [main] LoginPage:45 - Title matches
+2022-06-23 14:31:06,447  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 14:31:06,448  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 14:31:06 IST 2022
+2022-06-23 14:31:07,507  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 14:33:06,513  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 14:33:06,519  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 14:33:08,545  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 14:33:12,536  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 14:33:12,672  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 14:33:12,673  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 14:33:13,118  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 14:33:13,122  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 14:33:13 IST 2022
+2022-06-23 14:33:13,423  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 14:33:13,670  INFO [main] LoginPage:68 - Title does not matches
+2022-06-23 14:33:16,396  INFO [main] LoginPage:45 - Title matches
+2022-06-23 14:33:16,480  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 14:33:16,481  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 14:33:16 IST 2022
+2022-06-23 14:33:17,389  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 14:34:17,594  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 14:34:17,600  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 14:34:19,640  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 14:34:22,655  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 14:34:22,789  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 14:34:22,790  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 14:34:23,256  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 14:34:23,260  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 14:34:23 IST 2022
+2022-06-23 14:34:23,559  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 14:34:23,801  INFO [main] LoginPage:68 - Title does not matches
+2022-06-23 14:34:28,657  INFO [main] LoginPage:45 - Title matches
+2022-06-23 14:34:28,807  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 14:34:28,807  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 14:34:28 IST 2022
+2022-06-23 14:34:29,642  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 14:44:19,245  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 14:44:19,274  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 14:44:27,426  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 14:44:35,267  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 14:44:35,396  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 14:44:35,397  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 14:44:48,921  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 14:44:48,930  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 14:44:48 IST 2022
+2022-06-23 14:44:49,849  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 14:44:51,367  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....Title does not matches
+2022-06-23 14:44:55,556  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......Title matches
+2022-06-23 14:44:55,863  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 14:44:55,863  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 14:44:55 IST 2022
+2022-06-23 14:44:57,997  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 14:53:35,504  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 14:53:35,512  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 14:53:37,501  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 14:53:40,836  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 14:53:40,972  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 14:53:40,973  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 14:53:41,445  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 14:53:41,449  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 14:53:41 IST 2022
+2022-06-23 14:53:41,754  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 14:53:42,013  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 14:53:45,528  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 14:53:45,607  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 14:53:45,608  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 14:53:45 IST 2022
+2022-06-23 14:53:46,363  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 14:55:54,390  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 14:55:54,395  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 14:55:56,214  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 14:55:59,464  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 14:55:59,601  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 14:55:59,602  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 14:56:00,071  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 14:56:00,075  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 14:56:00 IST 2022
+2022-06-23 14:56:00,382  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 14:56:00,626  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 14:56:02,773  INFO [main] LoginPage:98 - navigated to dashboard page
+2022-06-23 14:56:03,379  INFO [main] DashboardPage:87 - clicked on Downloads link
+2022-06-23 14:56:03,388  INFO [main] DashboardPage:90 - page title matches
+2022-06-23 14:56:03,656  INFO [main] DashboardPage:55 - clicked on Operators link
+2022-06-23 14:56:03,664  INFO [main] DashboardPage:58 - page title matches
+2022-06-23 14:56:03,942  INFO [main] DashboardPage:71 - clicked on UsefullLinks link
+2022-06-23 14:56:03,954  INFO [main] DashboardPage:74 - page title matches
+2022-06-23 14:56:04,358  INFO [main] DashboardPage:39 - clicked on Users link
+2022-06-23 14:56:04,366  INFO [main] DashboardPage:42 - page title matches
+2022-06-23 14:56:04,943  INFO [main] DashboardPage:103 - clicked on Logout link
+2022-06-23 14:56:04,953  INFO [main] DashboardPage:106 - page title matches
+2022-06-23 14:56:04,992  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 14:56:04,993  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 14:56:04 IST 2022
+2022-06-23 14:56:05,795  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 14:57:37,956  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 14:57:37,961  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 14:57:39,753  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 14:57:43,995  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 14:57:44,133  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 14:57:44,134  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 14:57:44,600  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 14:57:44,604  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 14:57:44 IST 2022
+2022-06-23 14:57:44,896  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 14:57:45,146  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 14:57:48,975  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 14:57:49,061  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 14:57:49,061  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 14:57:49 IST 2022
+2022-06-23 14:57:50,040  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:04:30,436  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:04:30,461  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:04:39,757  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:04:44,321  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:04:44,441  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:04:44,443  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:04:45,636  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:04:45,640  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:04:45 IST 2022
+2022-06-23 17:04:45,999  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:04:46,274  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:04:50,730  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:04:51,548  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:04:51,549  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:04:51 IST 2022
+2022-06-23 17:04:54,385  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:06:39,450  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:06:39,478  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:06:50,210  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:06:59,242  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:06:59,376  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:06:59,376  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:07:05,464  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:07:05,480  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:07:05 IST 2022
+2022-06-23 17:07:05,986  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:07:06,288  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:07:11,142  INFO [main] LoginPage:98 - navigated to dashboard page
+2022-06-23 17:07:12,868  INFO [main] DashboardPage:87 - clicked on Downloads link
+2022-06-23 17:07:12,877  INFO [main] DashboardPage:90 - page title matches
+2022-06-23 17:07:13,247  INFO [main] DashboardPage:55 - clicked on Operators link
+2022-06-23 17:07:13,259  INFO [main] DashboardPage:58 - page title matches
+2022-06-23 17:07:13,915  INFO [main] DashboardPage:71 - clicked on UsefullLinks link
+2022-06-23 17:07:13,927  INFO [main] DashboardPage:74 - page title matches
+2022-06-23 17:07:16,167  INFO [main] DashboardPage:39 - clicked on Users link
+2022-06-23 17:07:16,176  INFO [main] DashboardPage:42 - page title matches
+2022-06-23 17:07:17,231  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:07:17,706  INFO [main] DashboardPage:103 - clicked on Logout link
+2022-06-23 17:07:17,716  INFO [main] DashboardPage:106 - page title matches
+2022-06-23 17:07:18,839  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:07:18,840  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:07:18 IST 2022
+2022-06-23 17:07:48,250  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:28:42,215  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:28:42,221  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:28:53,289  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:28:55,757  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:28:55,903  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:28:55,904  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:28:57,291  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:28:57,296  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:28:57 IST 2022
+2022-06-23 17:28:57,675  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:28:58,014  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:29:01,099  INFO [main] LoginPage:98 - navigated to dashboard page
+2022-06-23 17:29:01,792  INFO [main] DashboardPage:87 - clicked on Downloads link
+2022-06-23 17:29:01,805  INFO [main] DashboardPage:90 - page title matches
+2022-06-23 17:29:02,206  INFO [main] DashboardPage:55 - clicked on Operators link
+2022-06-23 17:29:02,219  INFO [main] DashboardPage:58 - page title matches
+2022-06-23 17:29:02,579  INFO [main] DashboardPage:71 - clicked on UsefullLinks link
+2022-06-23 17:29:02,591  INFO [main] DashboardPage:74 - page title matches
+2022-06-23 17:29:02,987  INFO [main] DashboardPage:39 - clicked on Users link
+2022-06-23 17:29:02,996  INFO [main] DashboardPage:42 - page title matches
+2022-06-23 17:29:04,006  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:29:04,291  INFO [main] DashboardPage:103 - clicked on Logout link
+2022-06-23 17:29:04,305  INFO [main] DashboardPage:106 - page title matches
+2022-06-23 17:29:04,750  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:29:04,751  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:29:04 IST 2022
+2022-06-23 17:29:08,615  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:33:03,370  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:33:03,376  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:33:16,607  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:33:24,012  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:33:24,229  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:33:24,230  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:33:26,298  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:33:26,314  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:33:26 IST 2022
+2022-06-23 17:33:26,942  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:33:28,814  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:33:32,001  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:33:32,465  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:33:32,466  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:33:32 IST 2022
+2022-06-23 17:33:36,451  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:36:45,606  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:36:45,611  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:36:51,009  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:36:54,711  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:36:54,840  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:36:54,841  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:36:55,576  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:36:55,581  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:36:55 IST 2022
+2022-06-23 17:36:55,930  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:36:57,228  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:36:59,662  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:36:59,991  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:36:59,992  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:36:59 IST 2022
+2022-06-23 17:37:02,823  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:37:48,933  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:37:48,938  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:37:50,883  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:37:54,206  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:37:54,330  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:37:54,331  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:37:54,997  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:37:55,004  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:37:54 IST 2022
+2022-06-23 17:37:55,359  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:37:56,861  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:37:59,486  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:37:59,578  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:37:59,579  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:37:59 IST 2022
+2022-06-23 17:38:03,457  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:40:09,379  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:40:09,385  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:40:14,085  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:40:23,495  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:40:23,646  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:40:23,647  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:40:24,259  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:40:24,264  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:40:24 IST 2022
+2022-06-23 17:40:24,581  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:40:26,166  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:40:28,638  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:40:29,605  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:40:29,606  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:40:29 IST 2022
+2022-06-23 17:40:47,372  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:44:56,989  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:44:57,009  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:45:01,798  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:45:05,098  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:45:05,234  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:45:05,235  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:45:05,844  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:45:05,850  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:45:05 IST 2022
+2022-06-23 17:45:06,295  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:45:07,616  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:45:09,968  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:45:10,035  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:45:10,035  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:45:10 IST 2022
+2022-06-23 17:45:13,804  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:46:41,990  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:46:41,997  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:46:46,665  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:46:50,219  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:46:50,371  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:46:50,371  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:46:51,063  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:46:51,068  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:46:51 IST 2022
+2022-06-23 17:46:51,430  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:46:52,744  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:46:54,667  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:46:54,775  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:46:54,776  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:46:54 IST 2022
+2022-06-23 17:46:55,938  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:50:48,454  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:50:48,459  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:50:51,237  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:50:57,583  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:50:57,741  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:50:57,741  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:50:58,365  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:50:58,372  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:50:58 IST 2022
+2022-06-23 17:50:58,732  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:51:00,386  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:51:03,535  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:51:03,602  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:51:03,603  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:51:03 IST 2022
+2022-06-23 17:51:07,923  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:53:21,911  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:53:21,964  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:53:25,589  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:53:31,945  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:53:32,080  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:53:32,081  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:53:32,681  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:53:32,688  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:53:32 IST 2022
+2022-06-23 17:53:33,036  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:53:34,505  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:53:35,980  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:53:36,042  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:53:36,043  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:53:36 IST 2022
+2022-06-23 17:53:36,988  INFO [main] BaseClass:27 - browser window closed
+2022-06-23 17:55:13,271  INFO [main] BaseClass:25 - reading a property file to get browser name
+2022-06-23 17:55:13,280  INFO [main] BaseClass:28 - browser name in file found as chrome
+2022-06-23 17:55:16,453  INFO [main] BaseClass:33 - user launched chrome browser
+2022-06-23 17:55:19,407  INFO [main] BaseClass:43 - JBK offline application launched
+2022-06-23 17:55:19,558  INFO [main] BaseClass:45 - browser window maximized
+2022-06-23 17:55:19,558  INFO [main] BaseClass:19 - Browser initialized
+2022-06-23 17:55:20,128  INFO [main] ListenerEx:54 - test cases finished time >> :: POMTest
+2022-06-23 17:55:20,133  INFO [main] ListenerEx:55 - start time >> Thu Jun 23 17:55:20 IST 2022
+2022-06-23 17:55:20,473  INFO [main] LoginPage:81 - Error msg matches
+2022-06-23 17:55:21,873  INFO [main] LoginPage:68 - JavaByKiran | Dashboard .....title does not matches
+2022-06-23 17:55:23,440  INFO [main] LoginPage:45 - JavaByKiran | Dashboard ......title matches
+2022-06-23 17:55:23,563  INFO [main] ListenerEx:61 - test cases finished time >> :: POMTest
+2022-06-23 17:55:23,564  INFO [main] ListenerEx:62 - finish time >> Thu Jun 23 17:55:23 IST 2022
+2022-06-23 17:55:24,756  INFO [main] BaseClass:27 - browser window closed
