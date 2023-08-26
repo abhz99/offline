@@ -45,9 +45,9 @@ public class BaseClass {
 		log.info("browser window maximized");
 	}
 	
-	public LoginPage loadLoginPage()
-	{
-		LoginPage loginPage = new LoginPage(driver);
-		return loginPage;
-	}
+	// public LoginPage loadLoginPage()
+	// {
+	// 	LoginPage loginPage = new LoginPage(driver);
+	// 	return loginPage;
+	// }
 }
